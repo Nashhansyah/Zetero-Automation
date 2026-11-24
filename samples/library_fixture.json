@@ -1,0 +1,83 @@
+{
+  "userID": "1234567",
+  "items": [
+    {
+      "key": "ABCD0001",
+      "itemID": 101,
+      "itemType": "journalArticle",
+      "title": "Deep Learning for Medical Imaging",
+      "doi": "10.1000/demo001",
+      "authors": [
+        {
+          "family": "Smith",
+          "given": "John"
+        },
+        {
+          "family": "Doe",
+          "given": "Jane"
+        }
+      ],
+      "year": "2021",
+      "journal": "Nature Machine Intelligence",
+      "volume": "3",
+      "issue": "2",
+      "page": "101-115"
+    },
+    {
+      "key": "ABCD0002",
+      "itemID": 102,
+      "itemType": "journalArticle",
+      "title": "Transformer Models in Natural Language Processing",
+      "doi": "10.1000/demo002",
+      "authors": [
+        {
+          "family": "Lee",
+          "given": "Min"
+        },
+        {
+          "family": "Park",
+          "given": "Soo"
+        }
+      ],
+      "year": "2022",
+      "journal": "Journal of Artificial Intelligence",
+      "volume": "12",
+      "issue": "4",
+      "page": "55-72"
+    },
+    {
+      "key": "ABCD0003",
+      "itemID": 103,
+      "itemType": "journalArticle",
+      "title": "Graph Neural Networks: A Survey",
+      "doi": "10.1000/demo003",
+      "authors": [
+        {
+          "family": "Brown",
+          "given": "Alice"
+        }
+      ],
+      "year": "2020",
+      "journal": "IEEE Transactions on Pattern Analysis",
+      "volume": "42",
+      "issue": "8",
+      "page": "2001-2020"
+    },
+    {
+      "key": "ABCD0004",
+      "itemID": 104,
+      "itemType": "conferencePaper",
+      "title": "Self-Supervised Learning for Vision",
+      "doi": "10.1000/demo004",
+      "authors": [
+        {
+          "family": "Garcia",
+          "given": "Luis"
+        }
+      ],
+      "year": "2023",
+      "journal": "CVPR Proceedings",
+      "page": "3300-3312"
+    }
+  ]
+}

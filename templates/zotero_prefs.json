@@ -1,0 +1,14 @@
+{
+  "_catatan": "Template isi properti ZOTERO_PREF_1 di docProps/custom.xml. Kalibrasi dengan dokumen contoh dari plugin Zotero (FLOW.md bagian 6).",
+  "data": {
+    "mode": "field",
+    "prefsVersion": "2",
+    "fieldType": "Field"
+  },
+  "url": "http://zotero.org/users/1234567/",
+  "prefs": {
+    "citationStyle": "http://www.zotero.org/styles/apa",
+    "locale": "en-US"
+  },
+  "version": 3
+}

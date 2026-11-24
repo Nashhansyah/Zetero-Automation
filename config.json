@@ -1,0 +1,16 @@
+{
+  "folder": "",
+  "docx": "",
+  "workbook": "",
+  "style": "author-year",
+  "enrich": true,
+  "adapter": "auto",
+  "zotero_data_dir": "",
+  "user_id": "",
+  "library_id": 1,
+  "uri_mode": "auto",
+  "citation_style": "http://www.zotero.org/styles/apa",
+  "locale": "en-US",
+  "fixture": "",
+  "output_name": "manuscript - Zotero.docx"
+}

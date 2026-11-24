@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Cache
+crossref_cache.json
+
+# File Word sementara
+~$*
+
+# Output otomatis tool
+manuscript - Zotero.docx
+manuscript-*.docx
+laporan_sitasi.xlsx
+mapping_report.csv
+PERLU_DIPERIKSA.txt
+referensi_belum_ada.ris
+
+# Output self-test di samples/
+samples/manuscript*.docx
+samples/uji-*.docx
+samples/laporan_sitasi.xlsx
+samples/mapping_report.csv
+samples/PERLU_DIPERIKSA.txt
+samples/referensi_belum_ada.ris
