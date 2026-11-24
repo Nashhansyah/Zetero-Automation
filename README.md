@@ -60,7 +60,8 @@ Secara langsung pada level OpenXML (`word/document.xml`), tool menyisipkan struk
 yang valid dengan **item key** dari database Zotero Anda, plus properti dokumen `ZOTERO_PREF_1`
 yang membuat Word mengenali dokumen sebagai dokumen Zotero.
 
-Versi ini adalah kembaran dari [Mendeley Citation Automation](../MENDELEY%20AUTOMATE) — alur
+Versi ini adalah kembaran dari
+[Mendeley Citation Automation](https://github.com/Nashhansyah/MendeleycAutomation) — alur
 pemakaiannya sama, hanya target aplikasinya Zotero.
 
 ---
